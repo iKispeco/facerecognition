@@ -1,2 +1,2 @@
-# facerecognition
+# Facerecognition
 Front end of "facerecognitionapi"
